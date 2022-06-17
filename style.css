@@ -1,0 +1,22 @@
+body
+{
+background-position: center;
+background-size: cover;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+canvas
+{
+    box-shadow: 10px 10px 10px #009999;
+    border-radius: 5px;
+    border-style: dotted;
+}
+#status
+{
+font-size: 18px;
+}
+
